@@ -1,0 +1,6 @@
+[submodule "Modules.WebUI"]
+	path = Modules.WebUI
+	url = https://github.com/abaksheiev/Modules.WebUI.git
+[submodule "Modules.Domain"]
+	path = Modules.Domain
+	url = https://github.com/abaksheiev/Modules.Domain.git
